@@ -1,0 +1,21 @@
+ECU/DC_MOTOR/DC_MOTOR_prg.o ECU/DC_MOTOR/DC_MOTOR_prg.o:  \
+ ../ECU/DC_MOTOR/DC_MOTOR_prg.c ../ECU/DC_MOTOR/DC_MOTOR_int.h \
+  ../ECU/DC_MOTOR/DC_MOTOR_cfg.h ../ECU/DC_MOTOR/../../MCAL/DIO/DIO_int.h \
+  ../ECU/DC_MOTOR/../../MCAL/DIO/../../LIBRARIES/STD_TYPES.h \
+  ../ECU/DC_MOTOR/../../MCAL/DIO/../../LIBRARIES/BIT_MATHS.h \
+  ../ECU/DC_MOTOR/../../MCAL/DIO/DIO_cfg.h \
+  ../ECU/DC_MOTOR/../../MCAL/DIO/DIO_prv.h
+
+../ECU/DC_MOTOR/DC_MOTOR_int.h:
+
+../ECU/DC_MOTOR/DC_MOTOR_cfg.h:
+
+../ECU/DC_MOTOR/../../MCAL/DIO/DIO_int.h:
+
+../ECU/DC_MOTOR/../../MCAL/DIO/../../LIBRARIES/STD_TYPES.h:
+
+../ECU/DC_MOTOR/../../MCAL/DIO/../../LIBRARIES/BIT_MATHS.h:
+
+../ECU/DC_MOTOR/../../MCAL/DIO/DIO_cfg.h:
+
+../ECU/DC_MOTOR/../../MCAL/DIO/DIO_prv.h:

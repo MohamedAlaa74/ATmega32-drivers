@@ -1,0 +1,45 @@
+MCAL/EXT_INT/EXT_INT_prg.o MCAL/EXT_INT/EXT_INT_prg.o:  \
+ ../MCAL/EXT_INT/EXT_INT_prg.c ../MCAL/EXT_INT/EXT_INT_int.h \
+  ../MCAL/EXT_INT/../../LIBRARIES/BIT_MATHS.h \
+  ../MCAL/EXT_INT/../../LIBRARIES/STD_TYPES.h \
+  ../MCAL/EXT_INT/EXT_INT_prv.h ../MCAL/EXT_INT/EXT_INT_cfg.h \
+  ../MCAL/EXT_INT/../G_INT/G_INT_int.h \
+  ../MCAL/EXT_INT/../G_INT/../../LIBRARIES/BIT_MATHS.h \
+  ../MCAL/EXT_INT/../G_INT/../../LIBRARIES/STD_TYPES.h \
+  ../MCAL/EXT_INT/../G_INT/G_INT_prv.h \
+  ../MCAL/EXT_INT/../G_INT/G_INT_cfg.h \
+  ../MCAL/EXT_INT/../../MCAL/DIO/DIO_int.h \
+  ../MCAL/EXT_INT/../../MCAL/DIO/../../LIBRARIES/BIT_MATHS.h \
+  ../MCAL/EXT_INT/../../MCAL/DIO/../../LIBRARIES/STD_TYPES.h \
+  ../MCAL/EXT_INT/../../MCAL/DIO/DIO_cfg.h \
+  ../MCAL/EXT_INT/../../MCAL/DIO/DIO_prv.h
+
+../MCAL/EXT_INT/EXT_INT_int.h:
+
+../MCAL/EXT_INT/../../LIBRARIES/BIT_MATHS.h:
+
+../MCAL/EXT_INT/../../LIBRARIES/STD_TYPES.h:
+
+../MCAL/EXT_INT/EXT_INT_prv.h:
+
+../MCAL/EXT_INT/EXT_INT_cfg.h:
+
+../MCAL/EXT_INT/../G_INT/G_INT_int.h:
+
+../MCAL/EXT_INT/../G_INT/../../LIBRARIES/BIT_MATHS.h:
+
+../MCAL/EXT_INT/../G_INT/../../LIBRARIES/STD_TYPES.h:
+
+../MCAL/EXT_INT/../G_INT/G_INT_prv.h:
+
+../MCAL/EXT_INT/../G_INT/G_INT_cfg.h:
+
+../MCAL/EXT_INT/../../MCAL/DIO/DIO_int.h:
+
+../MCAL/EXT_INT/../../MCAL/DIO/../../LIBRARIES/BIT_MATHS.h:
+
+../MCAL/EXT_INT/../../MCAL/DIO/../../LIBRARIES/STD_TYPES.h:
+
+../MCAL/EXT_INT/../../MCAL/DIO/DIO_cfg.h:
+
+../MCAL/EXT_INT/../../MCAL/DIO/DIO_prv.h:
